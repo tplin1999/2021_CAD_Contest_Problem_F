@@ -1,5 +1,5 @@
 # 2021 CAD Contest Problem F: Verilog Simulation Optimization via Instruction Reduction
-  >這份程式是 _**2021 CAD Contest Problem F(推廣題)**_ 的參考作法，關於題目的詳細敘述和測試資料可以到2021 CAD Contest的網站查看(http://iccad-contest.org/2021/tw/)。
+  >這份程式是 _**2021 CAD Contest Problem F(推廣題)**_ 的參考作法，關於題目的詳細敘述和測試資料可以到2021 CAD Contest的網站查看(http://iccad-contest.org/2021/tw/)
 
 ### 檔案用途
   * main.cpp是主程式
